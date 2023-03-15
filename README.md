@@ -1,5 +1,9 @@
 # Battleship
 
+## Preview
+
+To preview the app: https://react-battleship-game.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
